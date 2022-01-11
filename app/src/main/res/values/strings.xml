@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wallpaper Pool</string>
+    <string name="to">To</string>
+    <string name="welcome">Welcome</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="todo">TODO</string>
+</resources>
